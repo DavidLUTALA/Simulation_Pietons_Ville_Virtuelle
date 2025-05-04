@@ -25,7 +25,7 @@ changement de direction, etc.).
 - 📈 **Visualisation** en temps réel de la simulation
 - 💬 **Logs & Statistiques** sur les déplacements, collisions, regroupements
 
-![Alt text](Images/5.jpg)
+![Alt text](Images/6.jpg)
 
 ---
 
@@ -88,13 +88,13 @@ Ce projet a été réalisé dans le cadre d’un travail de groupe. Chaque membr
 
 ## 📸 Captures d'écran
 
-![Alt text](Images/2.jpg)
+![Alt text](Images/4.jpg)
 
 ![Alt text](Images/3.jpg)
 
-![Alt text](Images/4.jpg)
+![Alt text](Images/2.jpg)
 
-![Alt text](Images/6.jpg)
+![Alt text](Images/5.jpg)
 
 ---
 
