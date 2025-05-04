@@ -20,7 +20,7 @@ changement de direction, etc.).
 - 🔁 **Génération automatique de piétons** selon des paramètres personnalisés
 - 🧠 **Modélisation des comportements** (évitement d'obstacles, suivi de trajectoires, regroupements, comportement collectif)
 - 🌆 **Modélisation d'une ville** avec rues, carrefours, bâtiments et zones piétonnes
-- 📈 Visualisation en temps réel de la simulation
+- 📈 **Visualisation** en temps réel de la simulation
 - 💬 **Logs & Statistiques** sur les déplacements, collisions, regroupements
 
 ---
