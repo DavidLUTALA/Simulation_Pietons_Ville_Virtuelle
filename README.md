@@ -2,7 +2,7 @@
 
 Ce projet est une simulation de piétons dans une ville virtuelle. Il vise à modéliser et observer le comportement piétonnier dans un environnement urbain dynamique, en prenant en compte des facteurs comme les infrastructures, les flux de population, les obstacles et les règles de circulation piétonne.
 
-![Alt text](Images/1.png)
+![Alt text](Images/1.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ changement de direction, etc.).
 - 📈 **Visualisation** en temps réel de la simulation
 - 💬 **Logs & Statistiques** sur les déplacements, collisions, regroupements
 
-![Alt text](Images/5.png)
+![Alt text](Images/5.jpg)
 
 ---
 
@@ -88,13 +88,13 @@ Ce projet a été réalisé dans le cadre d’un travail de groupe. Chaque membr
 
 ## 📸 Captures d'écran
 
-![Alt text](Images/2.png)
+![Alt text](Images/2.jpg)
 
-![Alt text](Images/3.png)
+![Alt text](Images/3.jpg)
 
-![Alt text](Images/4.png)
+![Alt text](Images/4.jpg)
 
-![Alt text](Images/6.png)
+![Alt text](Images/6.jpg)
 
 ---
 
