@@ -1,6 +1,6 @@
 # 🏙️ Simulation de Piétons dans une Ville Virtuelle
 
-Ce projet est une **simulation interactive** de piétons dans une ville virtuelle. Il vise à modéliser et observer le comportement piétonnier dans un environnement urbain dynamique, en prenant en compte des facteurs comme les infrastructures, les flux de population, les obstacles et les règles de circulation piétonne.
+Ce projet est une simulation de piétons dans une ville virtuelle. Il vise à modéliser et observer le comportement piétonnier dans un environnement urbain dynamique, en prenant en compte des facteurs comme les infrastructures, les flux de population, les obstacles et les règles de circulation piétonne.
 
 ---
 
