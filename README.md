@@ -44,8 +44,8 @@ changement de direction, etc.).
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-organisation/simulation-pietons-ville.git
-   cd simulation-pietons-ville
+   git clone https://github.com/DavidLUTALA/Simulation_Pietons_Ville_Virtuelle.git
+   cd Simulation_Pietons_Ville_Virtuelle
 
 
 ---
@@ -65,8 +65,8 @@ Ce projet a été réalisé dans le cadre d’un travail de groupe. Chaque membr
 | **Nom complet**              | **Rôle(s) principaux**                                      |
 |------------------|-----------------------------------------------------|
 | TAKOUCHOUANG Fraisse      | Analyste et Responsable qualité               |
-| EBWALA Priscille  | Développeuse du groupe              |
-| LUTALA David    | Leader du groupe          |
+| EBWALA Priscille  | Développeuse           |
+| LUTALA David    | Leader         |
 
 > *Nous avons utilisé un système de branches et des pull requests pour permettre une collaboration fluide et une revue de code rigoureuse.*
 
@@ -76,9 +76,9 @@ Ce projet a été réalisé dans le cadre d’un travail de groupe. Chaque membr
 
 | Membre           | Modules développés                    | Revue de code | Tests | Docs |
 |------------------|----------------------------------------|---------------|-------|------|
-| TAKOUCHOUANG Fraisse      | Scénarios à simuler, Documentations(Rapport, Slides Présentation), Validation Test           | 🟡            | ✅    | ✅   |
-| EBWALA Priscille  |  Conception du système, modélisation 3D des piétons et environnement, intégration des modèles  | ✅            | ✅    | 🟡   |
-| LUTALA David    | Comptes rendus, comportements de déplacement des piétons, Scripts de systèmes de navigation.             | ✅            | 🟡    | ✅   |
+| TAKOUCHOUANG Fraisse      | Scénarios à simuler, Documentations( Rapport, Slides Présentation ), Validation Test           | 🟡            | ✅    | ✅   |
+| EBWALA Priscille  |  Conception du système, Modélisation 3D des piétons et environnement, Intégration des modèles  | ✅            | ✅    | 🟡   |
+| LUTALA David    | Comptes rendus, Comportements de déplacement des piétons, Scripts de systèmes de navigation.             | ✅            | 🟡    | ✅   |
 
 ---
 
